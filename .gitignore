@@ -3,12 +3,11 @@ __pycache__/
 *.pyc
 .DS_Store
 
+# Cartelle IDE
+.vscode/
+
 # Modelli addestrati (file pesanti)
 models/*.keras
-
-# Dati processati e split (evitiamo conflitti)
-data/processed/*
-!data/processed/.gitkeep
 
 # Dati originali (dataset troppo pesanti per GitHub)
 data/raw/*
