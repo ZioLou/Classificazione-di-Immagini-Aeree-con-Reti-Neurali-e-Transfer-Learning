@@ -24,7 +24,7 @@ progetto_assignment3/
 └── models/              # [NON INCLUSO IN GIT] Modelli salvati (.keras)
 ```
 
-## ⚙️ Requisiti e Setup (Per il Docente)
+## ⚙️ Requisiti e Setup
 
 I file `.keras` dei modelli addestrati e i dataset originali **non sono inclusi** nella repository a causa delle loro dimensioni.
 
